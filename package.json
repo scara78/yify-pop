@@ -17,6 +17,6 @@
   },
   "devDependencies": {},
   "engines": {
-    "node": ">=0.10.39"
+    "node": ">=11.15.0"
   }
 }
